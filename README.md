@@ -1,0 +1,2 @@
+# free-ollama
+free ollama
